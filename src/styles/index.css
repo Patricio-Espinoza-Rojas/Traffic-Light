@@ -1,16 +1,12 @@
+
  body {
-    background-color:darkcyan;
-    background-image: url("/src/img/daniele-colucci-8MoRs-DVtas-unsplash.jpg");
+    background-image: url("https://thumbs.dreamstime.com/b/camino-de-ciudad-19519384.jpg");
+    background-size: 100% 160%;
+    background-repeat: no-repeat;
 } 
 
-.traffic_top {
-    background-color: black;
-    width: 10px;
-    height: 15px;
-
-}
 .container{
-    margin-top: 150px;
+    margin-top: 345px;
     display: flex;
     align-items: center;
 }
@@ -20,15 +16,14 @@
   margin: 0 auto;    
   background-color: black;  
   text-align: center;
-  width: 170px;
-  height: 430px;
+  width: 100px;
+  height: 240px;
   border-radius: 20px;  
 }
 
 .light {
-    width: 100px;
-    height: 100px;
-    
+    width: 45px;
+    height: 45px;
     border-radius: 50%;
     margin: auto;
     margin-top: 30px;
