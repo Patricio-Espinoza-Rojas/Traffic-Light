@@ -7,6 +7,7 @@ function Home() {
   const colors = ["red", "yellow", "green"];
   const [lit, setLit] = useState("red");
   return (
+    <div className="traffic_top"></div>,
     <div className="container">
       <div className="home">
         {colors.map((color) => {

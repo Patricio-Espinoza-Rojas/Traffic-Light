@@ -1,8 +1,14 @@
  body {
     background-color: burlywood;
-    background-image: url(https://pxhere.com/es/photo/860248);
+    background-image: url("/src/img/daniele-colucci-8MoRs-DVtas-unsplash.jpg");
 } 
 
+.traffic_top {
+    background-color: black;
+    width: 10px;
+    height: 15px;
+
+}
 .container{
     margin-top: 100px;
     display: flex;
@@ -16,7 +22,7 @@
   text-align: center;
   width: 170px;
   height: 430px;
-  border-radius: 30%;  
+  border-radius: 20px;  
 }
 
 .light {
